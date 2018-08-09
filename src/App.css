@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+#first {
+  margin: 0px auto 0px auto;
+  height: 250px;
+  width: 250px;
+
+  background: red;
+}
+
+#second {
+  margin: 0px auto 0px auto;
+  height: 250px;
+  width: 250px;
+
+  background: blue;
+}
